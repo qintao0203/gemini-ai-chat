@@ -195,7 +195,7 @@ Using the provided image of [subject], please [add/remove/modify] [element] to/f
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <div style="flex: 1; text-align: center; margin: 0 10px;">
-    **Input | 输入**
+    Input
     <br/>
     <img src="images/img_5.png" alt="Input Image" style="max-width: 50%; height: auto;"/>
   </div>
@@ -233,7 +233,7 @@ preserving the original style, lighting, and composition.
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <div style="flex: 1; text-align: center; margin: 0 10px;">
-    **Input | 输入**
+    Input
     <br/>
     <img src="images/img_7.png" alt="Input Image" style="max-width: 50%; height: auto;"/>
   </div>
@@ -271,7 +271,7 @@ Transform the provided photograph of [subject] into the artistic style of [artis
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <div style="flex: 1; text-align: center; margin: 0 10px;">
-    **Input | 输入**
+    Input
     <br/>
    <img src="images/img_9.png" alt="Input Image" style="max-width: 50%; height: auto;"/> 
   </div>
@@ -353,12 +353,12 @@ completely unchanged. The added element should [description of how the element s
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <div style="flex: 1; text-align: center; margin: 0 10px;">
-    **Input 1 **
+    Input 1
     <br/>
     <img src="images/img_14.png" alt="Input 1 Image" style="max-width: 50%; height: auto;"/>
   </div>
   <div style="flex: 1; text-align: center; margin: 0 10px;">
-    **Input 2 **
+    Input 2
     <br/>
     <img src="images/img_15.png" alt="Input 2 Image" style="max-width: 50%; height: auto;"/>
   </div>
